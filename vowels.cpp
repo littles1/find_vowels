@@ -17,25 +17,26 @@
 
 static const char*
 FILE_NAME[20] = {"/home/fac/elarson/cpsc3500/pa2a/file1.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file2.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file3.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file4.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file5.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file6.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file7.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file8.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file9.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file10.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file11.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file12.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file13.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file14.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file15.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file16.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file17.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file18.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file19.txt",
-"/home/fac/elarson/cpsc3500/pa2a/file20.txt"};
+"/file2.txt",
+"/file3.txt",
+"/file4.txt",
+"/file5.txt",
+"/file6.txt",
+"/file7.txt",
+"/file8.txt",
+"/file9.txt",
+"/file10.txt",
+"/file11.txt",
+"/file12.txt",
+"/file13.txt",
+"/file14.txt",
+"/file15.txt",
+"/file16.txt",
+"//file17.txt",
+"/file18.txt",
+"/file19.txt",
+"/file20.txt"
+};
 
 static char file_location[BUFFER_SIZE];
 
