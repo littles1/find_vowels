@@ -16,7 +16,8 @@
 #define NUMBER_OF_THREADS 20
 
 static const char*
-FILE_NAME[20] = {"/home/fac/elarson/cpsc3500/pa2a/file1.txt",
+FILE_NAME[20] = {
+"/file1.txt",
 "/file2.txt",
 "/file3.txt",
 "/file4.txt",
